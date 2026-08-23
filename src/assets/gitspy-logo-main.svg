@@ -1,0 +1,18 @@
+<svg width="680" height="320" viewBox="0 0 680 320" xmlns="http://www.w3.org/2000/svg">
+<title>GitSpy logo</title>
+<desc>A saffron circular badge with a white magnifying glass overlaid on a git branch icon, with the GitSpy wordmark beside it</desc>
+<circle cx="150" cy="150" r="90" fill="#F4A420"/>
+<g stroke="#FFFFFF" stroke-width="7" fill="none" stroke-linecap="round">
+<circle cx="128" cy="108" r="10"/>
+<circle cx="128" cy="192" r="10"/>
+<circle cx="172" cy="150" r="10"/>
+<path d="M128 118 L128 182"/>
+<path d="M138 150 L162 150"/>
+</g>
+<g>
+<circle cx="150" cy="140" r="34" fill="none" stroke="#FFFFFF" stroke-width="9"/>
+<line x1="174" y1="164" x2="206" y2="196" stroke="#FFFFFF" stroke-width="11" stroke-linecap="round"/>
+</g>
+<text x="270" y="165" font-family="Arial, sans-serif" font-size="64" font-weight="700" fill="#F4A420">Git<tspan fill="#1A1A1A">Spy</tspan></text>
+<text x="270" y="200" font-family="Arial, sans-serif" font-size="18" fill="#666666">Inspect any GitHub profile in seconds</text>
+</svg>

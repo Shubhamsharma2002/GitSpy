@@ -1,0 +1,14 @@
+<svg width="180" height="180" viewBox="0 0 180 180" xmlns="http://www.w3.org/2000/svg">
+<title>GitSpy icon</title>
+<desc>Icon-only mark: saffron circle with a white magnifying glass over a git branch icon</desc>
+<circle cx="90" cy="90" r="80" fill="#F4A420"/>
+<g stroke="#FFFFFF" stroke-width="6" fill="none" stroke-linecap="round">
+<circle cx="72" cy="62" r="9"/>
+<circle cx="72" cy="118" r="9"/>
+<circle cx="108" cy="90" r="9"/>
+<path d="M72 71 L72 109"/>
+<path d="M80 90 L99 90"/>
+</g>
+<circle cx="90" cy="82" r="28" fill="none" stroke="#FFFFFF" stroke-width="8"/>
+<line x1="110" y1="102" x2="132" y2="124" stroke="#FFFFFF" stroke-width="9" stroke-linecap="round"/>
+</svg>
